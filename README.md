@@ -4,6 +4,7 @@ I am currently attending a 4 year university studying Information Technology.
 
 ## Technologies I use
 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Liquid](https://img.shields.io/badge/-Shopify%20Liquid-black?style=flat-square&logo=shopify)
