@@ -1,6 +1,6 @@
 ## Hi I'm Logleb
 
-I am currently a senior in high school and plan on studying Computer Science at a 4 year university starting next fall.
+I am currently attending a 4 year university studying Information Technology.
 
 ## Technologies I use
 
