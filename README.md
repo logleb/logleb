@@ -1,6 +1,6 @@
 ## Hi I'm Logleb
 
-I am currently attending a 4 year university studying Information Technology.
+I am currently attending University of Missouri - Columbia studying Information Technology.
 
 ## Technologies I use
 
